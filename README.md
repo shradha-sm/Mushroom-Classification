@@ -94,5 +94,5 @@ This project demonstrates how Machine Learning can accurately classify mushrooms
 
 ## 👩‍💻 Author
 **Shradha Muddappawar**
-- LinkedIn: *(https://www.linkedin.com/in/shradha-muddappawar-73773924b?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
+- LinkedIn: *(https://www.linkedin.com/in/shradha-muddappawar)*
 - GitHub: *((https://github.com/shradha-sm))*
